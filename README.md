@@ -10,19 +10,12 @@ Este projeto é um aplicativo GUI para baixar vídeos do YouTube, desenvolvido e
 
 ## Como Usar
 
-1. **Baixe o Executável:**
 
-   - **Windows:** Baixe o executável `.exe` para Windows.
-   - **Mac:** Baixe o executável `.app` ou binário para macOS.
-   - **Linux:** Baixe o executável binário para Linux.
-
-   Esses executáveis estão disponíveis na seção de releases do GitHub ou em um link compartilhado.
-
-2. **Execute o Aplicativo:**
+1. **Execute o Aplicativo:**
 
    - **Windows:** Clique duas vezes no arquivo `.exe` para iniciar o aplicativo.
 
-3. **Baixe o Vídeo:**
+2. **Baixe o Vídeo:**
 
    Após inserir a URL e escolher o diretório de destino, clique no botão "Baixar" e aguarde o processo de download ser concluído.
 

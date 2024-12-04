@@ -10,6 +10,9 @@ Este projeto é um aplicativo GUI para baixar vídeos do YouTube, desenvolvido e
 
 ## Como Usar
 
+**download**
+
+[text](https://github.com/gabrielyandev/download-youtube/archive/refs/heads/main.zip)
 
 1. **Execute o Aplicativo:**
 
